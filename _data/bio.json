@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Alexander TaeYang Chang",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/jang-taeyang.png",
+    "email": "atyc@hawaii.edu",
+    "phone": "808-773-2572",
+    "website": "https://jang-taeyang.github.io",
+    "summary": "I am a student pursuing a Bachelor of Science (B.S.) and Master of Science (M.S.) in Computer Engineering in the Department of Electrical and Computer Engineering at the University of Hawaii at Manoa. As a participant under the University's BAM (Bachelor's and Master's) program, I am on an accelarated pathway to acheive both degrees. I expect to graduate with my B.S. in Spring, 2025. I anticipate completing my M.S. by Fall, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
