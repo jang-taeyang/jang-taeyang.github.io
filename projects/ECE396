@@ -1,0 +1,16 @@
+---
+layout: project
+type: project
+image: img/micromouse/micromouse-square.jpg
+title: "ECE396: UHM HSFL Aerospace Technologies - Ke Ao (Avionics)"
+date: Spring 2024
+published: true
+labels:
+  - Printed Circuit Board
+  - Electrical Power System
+  - Telemetry Systems
+summary: " The Ke Ao Roadmap to Space project is a student-led initiative to design, build, and launch a cost-effective 1U CubeSat that caputures and analyzes images of the Hawaiian Islands, providing hands-on experience in satellite design and the advancement of Hawaii's aerospace potential."
+---
+This Vertically Integrated Project (VIP) collobarated with the Hawaii Space Flight Laboratory in the design and development of a low-cost 1U CubeSat, with the ability to capture images of the Hawaiian Islands, utilized through the applied concepts of machine learning for autonomous image recognition. It contributed to systems engineering, testing, integration, while allowing for enhanced workforce development and aerospace education. A multidisciplinary team is worked with to deliver an affordable, spaceflight-ready satellite, advancing Hawaii's technological infrastructure supporting NASA's Artemis CubeSat Kit initiative. 
+
+Under the avionics team for the Ke Ao Roadmap to Space project, we were responsible for the deesign, development, and integration of the CubeSat's electrical and electronic systems. This was done to ensure a seamless operation in space, while including onboard computer implementation, power distribution systems, and communication interfaces for mission-critical purposes. We worked on sensor integration, IMU and GPS, allowing for precisee altitude control and reliable data transmission between satellite and ground stations. Through persistent testing and optimization, the satellite's subsystems were made sure to operate under any condtions of Low Earth Orbit to ensure mission success. 
