@@ -25,35 +25,45 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Visual Studio Code", "Git/GitHub", "iTerm2", "XCode" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-01-14",
       "endDate": "Present",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Sociology",
+      "studyType": "B.A.",
+      "startDate": "2014-08-21",
+      "endDate": "2019-12-19",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Hankoook Hawaii Inc",
+      "position": "Customer Service Representative Guide",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2017-01-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Korean Tour Guide Company",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Required fluent speaking in both Korean and English languages.",
+        "Showcased exceptional customer service and problem-solving skills.",
+        "Provided administrative and operational support within the tour guide department, ensuring efficient day-to-day logistics."
       ]
     },
     {
