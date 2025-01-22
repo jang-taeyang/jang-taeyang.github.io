@@ -57,9 +57,9 @@
       "company": "Hankoook Hawaii Inc",
       "position": "Customer Service Representative Guide",
       "website": "",
-      "startDate": "2017-01-01",
+      "startDate": "Spring 2020",
       "endDate": "Present",
-      "summary": "Korean Tour Guide Company",
+      "summary": "Korean Tour Guide",
       "highlights": [
         "Required fluent speaking in both Korean and English languages.",
         "Showcased exceptional customer service and problem-solving skills.",
@@ -67,15 +67,42 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "AT&T",
+      "position": "Commission Sales Associate",
+      "website": "",
+      "startDate": "Spring 2017",
+      "endDate": "Fall 2017",
+      "summary": "Multinational Telecommmunications",
+      "highlights": [
+        "Processed transactions through device activations and upgrades, following the proper guidelines of company policies.",
+        "Consistently exceeded targeted sales in service plans, bundles, wireless devices, internet plans in combination with promotional offerings.",
+        "Delivered exceptional customer service through assistance in product information, selection, service plans, and technical support to provide a personalized experience for clientele."
+      ]
+    },
+    {
+      "company": "Oakley",
+      "position": "Retail Sales Representative",
+      "website": "Sports & Lifestyle Brand Eyewear Manufacturer",
+      "startDate": "Spring 2015",
+      "endDate": "Fall 2016",
       "summary": "",
       "highlights": [
+        "Assisted in proper store presentation and visual merchandising to display products in an engaging retail environment.",
+        "Maintained deep knowledge of Oakley eyewear products, new releases, features, purposes, best sellers, and compatibility with face shapes.",
+        "Provided excellent customer service through product knowledge, selection, and assistance, ensuring a tailored shopping experience surpassing Oakley’s brand standard."
+      ]
+    },
+    {
+      "company": "AutoXChange LTD",
+      "position": "Automotive Salesman",
+      "website": "",
+      "startDate": "Fall 2014",
+      "endDate": "Fall 2015",
+      "summary": "Pre-Owned Automotive Dealership",
+      "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Answer phone and email responses to the ITS Help Desk",
+        ""
       ]
     },
     {
@@ -87,31 +114,8 @@
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Answer phone and email responses to the ITS Help Desk",
+        ""
       ]
     }
   ]
