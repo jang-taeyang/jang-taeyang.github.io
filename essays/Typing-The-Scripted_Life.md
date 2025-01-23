@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "The Path to Computer Engineering"
+title: "Typing The Scripted Life"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-21
+date: 2025-01-22
 published: true
 labels:
-  - Engineering
+  - TypeScript
 ---
-# The Path to Computer Engineering
+# Typing The Scripted Life
 ## A Journey Fueled by Curiosity
 
 My journey into software engineering began with an early interest in web development. Before formally declaring my major, I collaborated with friends to create custom websites for their businesses. This hands-on experience sparked a curiosity about the technical intricacies of software development. A defining moment was designing my MySpace profile page, where I encountered foundational front-end development concepts and realized my passion for full-stack development. Growing up during an era of transformative advancements in mobile technology and gaming, I became increasingly intrigued by the complex processes behind these platforms. Understanding that even seemingly simple applications require months of rigorous debugging and testing deepened my respect for the discipline and dedication essential to success in this field.
