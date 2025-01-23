@@ -10,7 +10,7 @@
     "location": { "address": "2206 Laukahi Street", "postalCode": "96821", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jang-taeyang", "url": "http://github.com/jang-taeyang" },
-      { "network": "linkedin", "username": "changtaeyang", "url": "http://linkedin.com/in/changtaeyang" },
+      { "network": "linkedin", "username": "changtaeyang", "url": "http://linkedin.com/in/changtaeyang" }
     ]
   },
   "interests": [
@@ -35,7 +35,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2022-01-14",
+      "startDate": "Spring 2022",
       "endDate": "Present",
       "courses": [
       ]
@@ -44,8 +44,8 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Sociology",
       "studyType": "B.A.",
-      "startDate": "2014-08-21",
-      "endDate": "2019-12-19",
+      "startDate": "Fall 2014",
+      "endDate": "Fall 2019",
       "courses": [
       ]
     }
@@ -111,13 +111,13 @@
         "Managed daily relocation of vehicle inventory through organization, staging, and maintenance skills within the dealership lot to display an appealing customer-friendly environment."
       ]
     }
-  ]
+  ],
   "volunteer": [
     {
       "organization": "University of Hawaii at Manoa K-12 College of Engineering Tour",
       "position": "HSFL Ke Ao Aerospace Technologies Software Division",
-      "startDate": "2024-01-22",
-      "endDate": "2024-01-29",
+      "startDate": "Spring 2024",
+      "endDate": "Spring 2024",
       "summary": "College of Engineering tours for local K-12 students, providing an in-depth overview of the University of Hawaiʻi at Mānoa’s engineering programs and inspiring interest in STEM education and careers.",
       "highlights": [
         "Provided an overview of the VIP HSFL Ke Ao Aerospace Technologies Lab, highlighting its role in advancing aerospace research and innovation at the University of Hawaiʻi.",
