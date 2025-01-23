@@ -11,25 +11,23 @@
     "profiles": [
       { "network": "github", "username": "jang-taeyang", "url": "http://github.com/jang-taeyang" },
       { "network": "linkedin", "username": "changtaeyang", "url": "http://linkedin.com/in/changtaeyang" },
-      { "network": "twitter", "username": "N/A", "url": "N/A" },
-      { "network": "instagram", "username": "N/A", "url": "N/A" }
     ]
   },
   "interests": [
     { "name": "Cyber Security" },
     { "name": "Computer Hardware" },
     { "name": "Embedded Engineering" },
-    { "name": "Software Engineering" },
+    { "name": "Full Stack Engineering" },
     { "name": "Renewable Energy" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Python" , "Matlab", "HTML", "Python"  ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Visual Studio Code", "Git/GitHub", "iTerm2", "XCode" ]
+      "keywords": [ "MacOS", "Visual Studio Code", "Git/GitHub", "CLion", "Command Line Interface", "EDA Playground", "iTerm2", "Xilinx Vivado", "Wiliki"   ]
     }
   ],
   "education": [
@@ -56,7 +54,6 @@
     {
       "company": "Hankoook Hawaii Inc",
       "position": "Customer Service Representative Guide",
-      "website": "",
       "startDate": "Spring 2020",
       "endDate": "Present",
       "summary": "Korean Tour Guide",
@@ -69,7 +66,6 @@
     {
       "company": "AT&T",
       "position": "Commission Sales Associate",
-      "website": "",
       "startDate": "Spring 2017",
       "endDate": "Fall 2017",
       "summary": "Multinational Telecommmunications",
@@ -82,10 +78,9 @@
     {
       "company": "Oakley",
       "position": "Retail Sales Representative",
-      "website": "Sports & Lifestyle Brand Eyewear Manufacturer",
       "startDate": "Spring 2015",
       "endDate": "Fall 2016",
-      "summary": "",
+      "summary": "Sports & Lifestyle Brand Eyewear Manufacturer",
       "highlights": [
         "Assisted in proper store presentation and visual merchandising to display products in an engaging retail environment.",
         "Maintained deep knowledge of Oakley eyewear products, new releases, features, purposes, best sellers, and compatibility with face shapes.",
@@ -95,7 +90,6 @@
     {
       "company": "AutoXChange LTD",
       "position": "Automotive Salesman",
-      "website": "",
       "startDate": "Fall 2014",
       "endDate": "Fall 2015",
       "summary": "Pre-Owned Automotive Dealership",
@@ -108,7 +102,6 @@
     {
       "company": "AutoXChange LTD",
       "position": "Automotive Lot Technician",
-      "website": "",
       "startDate": "Spring 2012",
       "endDate": "Fall 2014",
       "summary": "Pre-Owned Automotive Dealership",
@@ -121,32 +114,20 @@
   ]
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "University of Hawaii at Manoa K-12 College of Engineering Tour",
+      "position": "HSFL Ke Ao Aerospace Technologies Software Division",
+      "startDate": "2024-01-22",
+      "endDate": "2024-01-29",
+      "summary": "College of Engineering tours for local K-12 students, providing an in-depth overview of the University of Hawaiʻi at Mānoa’s engineering programs and inspiring interest in STEM education and careers.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Provided an overview of the VIP HSFL Ke Ao Aerospace Technologies Lab, highlighting its role in advancing aerospace research and innovation at the University of Hawaiʻi.",
+        "Explained the lab’s mission to develop cost-effective, small satellite systems for scientific research and exploration.",
+        "Demonstrated how the lab integrates cutting-edge technologies, such as CubeSat development and ground station operations, to support space missions.",
+        "Shared insights into the multidisciplinary teamwork required in aerospace projects, emphasizing collaboration among engineering, physics, and computer science students."
       ]
     }
   ],
-  "awards": [
+  "awards & honors": [
     {
       "title": "IEEE Eta Kappa Nu (HKN) Pledge",
       "date": "2024-2025",
