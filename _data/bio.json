@@ -35,7 +35,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "Spring 2022",
+      "startDate": "2022",
       "endDate": "Present",
       "courses": [
       ]
@@ -44,8 +44,8 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Sociology",
       "studyType": "B.A.",
-      "startDate": "Fall 2014",
-      "endDate": "Fall 2019",
+      "startDate": "2014",
+      "endDate": "2019",
       "courses": [
       ]
     }
@@ -54,7 +54,7 @@
     {
       "company": "Hankoook Hawaii Inc",
       "position": "Customer Service Representative Guide",
-      "startDate": "Spring 2020",
+      "startDate": "2020",
       "endDate": "Present",
       "summary": "Korean Tour Guide",
       "highlights": [
@@ -66,8 +66,8 @@
     {
       "company": "AT&T",
       "position": "Commission Sales Associate",
-      "startDate": "Spring 2017",
-      "endDate": "Fall 2017",
+      "startDate": "2017",
+      "endDate": "2017",
       "summary": "Multinational Telecommmunications",
       "highlights": [
         "Processed transactions through device activations and upgrades, following the proper guidelines of company policies.",
@@ -78,8 +78,8 @@
     {
       "company": "Oakley",
       "position": "Retail Sales Representative",
-      "startDate": "Spring 2015",
-      "endDate": "Fall 2016",
+      "startDate": "2015",
+      "endDate": "2016",
       "summary": "Sports & Lifestyle Brand Eyewear Manufacturer",
       "highlights": [
         "Assisted in proper store presentation and visual merchandising to display products in an engaging retail environment.",
@@ -90,8 +90,8 @@
     {
       "company": "AutoXChange LTD",
       "position": "Automotive Salesman",
-      "startDate": "Fall 2014",
-      "endDate": "Fall 2015",
+      "startDate": "2014",
+      "endDate": "2015",
       "summary": "Pre-Owned Automotive Dealership",
       "highlights": [
         "Assisted in selecting pre-owned vehicles of numerous brands through understanding customer needs, preferences, budgets and credit score.",
@@ -102,8 +102,8 @@
     {
       "company": "AutoXChange LTD",
       "position": "Automotive Lot Technician",
-      "startDate": "Spring 2012",
-      "endDate": "Fall 2014",
+      "startDate": "2012",
+      "endDate": "2014",
       "summary": "Pre-Owned Automotive Dealership",
       "highlights": [
         "Supported sales and service departments by consistently moving vehicles, deliveries to customer homes, and coordinating logistics.",
@@ -116,8 +116,8 @@
     {
       "organization": "University of Hawaii at Manoa K-12 College of Engineering Tour",
       "position": "HSFL Ke Ao Aerospace Technologies Software Division",
-      "startDate": "Spring 2024",
-      "endDate": "Spring 2024",
+      "startDate": "2024",
+      "endDate": "2024",
       "summary": "College of Engineering tours for local K-12 students, providing an in-depth overview of the University of Hawaiʻi at Mānoa’s engineering programs and inspiring interest in STEM education and careers.",
       "highlights": [
         "Provided an overview of the VIP HSFL Ke Ao Aerospace Technologies Lab, highlighting its role in advancing aerospace research and innovation at the University of Hawaiʻi.",
