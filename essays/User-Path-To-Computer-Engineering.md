@@ -11,6 +11,8 @@ labels:
 # /user/path/to/computer/engineering
 ## A Journey Fueled by Curiosity
 
+<img width="580px" class="rounded float-start pe-3" src="../img/TOM2.png">
+
 My journey into software engineering began with an early interest in web development. Before formally declaring my major, I collaborated with friends to create custom websites for their businesses. This hands-on experience sparked a curiosity about the technical intricacies of software development. A defining moment was designing my MySpace profile page, where I encountered foundational front-end development concepts and realized my passion for full-stack development. Growing up during an era of transformative advancements in mobile technology and gaming, I became increasingly intrigued by the complex processes behind these platforms. Understanding that even seemingly simple applications require months of rigorous debugging and testing deepened my respect for the discipline and dedication essential to success in this field.
 
 Cultural influences also played a role in shaping my aspirations. Films like The Social Network highlighted how technical expertise combined with innovative ideas can drive significant change. These examples fueled my ambition to create impactful software solutions. Additionally, the increasing emphasis on programming education in schools underscores the growing importance of software engineering in shaping the future. This serves as a constant motivation to refine my skills and adapt in a field that continues to evolve rapidly.
