@@ -8,6 +8,8 @@ published: true
 labels:
   - TypeScript
 ---
+<img width="780px" class="rounded float-start pe-3" src="../img/TYPE.png">
+
 # Typing The Scripted Life
 ## Why TypeScript Stands Out
 
