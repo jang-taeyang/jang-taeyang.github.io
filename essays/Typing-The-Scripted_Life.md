@@ -10,7 +10,6 @@ labels:
 ---
 <img width="780px" class="rounded float-start pe-3" src="../img/TYPE.png">
 
-# Typing The Scripted Life
 ## Why TypeScript Stands Out
 
 TypeScript has been an exciting tool to explore, and its features have left a lasting impression on me as a software engineer. While I was already familiar with its benefits, such as static typing and IDE integration, this module gave me deeper insights into its capabilities, particularly its alignment with modern ES6 features like destructuring and async/await. Compared to JavaScript, TypeScript provides a much-needed layer of structure and error-checking, ensuring that my code is not just functional but also reliable and maintainable. As TypeScript’s creator, Anders Hejlsberg, aptly said, “TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.” This superset nature ensures compatibility while introducing powerful features that make it an excellent choice for large-scale projects where collaboration and scalability are crucial.
