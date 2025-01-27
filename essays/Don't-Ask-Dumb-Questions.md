@@ -14,7 +14,12 @@ labels:
 ## Introduction
 In software engineering, asking the right questions is just as important as finding the right answers. A smart question will display effort, clarity, and detailed respect for the reader’s time, representing the backbone of effective communication and problem-solving. Eric S. Raymond’s *"How To Ask Questions The Smart Way"* guides readers on a method for crafting questions that can lead to significant and efficient solutions. This technical essay explores two opposing examples from Stack Overflow, where there is a smart question and a poorly constructed one. A smart question will meet Raymond’s criteria, while the opposite falls short, reflecting on the factors that make a question effective.
 
-## A Smart Question: Why is processing a sorted array faster than processing an unsorted array?
+<div style="margin-top: 20px; margin-bottom: 20px;">
+    <h2 style="display: block; margin: 0;">
+        A Smart Question: Why is processing a sorted array faster than processing an unsorted array?
+    </h2>
+</div>
+
 <div style="text-align: center; margin-top: 20px; display: flex; flex-direction: column; align-items: center;">
     <a href="https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array" target="_blank">
         <img width="780px" src="../img/SMARTQUESTION.png" alt="Why is processing a sorted array faster than processing an unsorted array?" style="display: block;">
