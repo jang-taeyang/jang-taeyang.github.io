@@ -8,7 +8,7 @@ published: true
 labels:
   - TypeScript
 ---
-<img width="780px" class="rounded float-start pe-3" src="../img/TYPE.png">
+<img width="380px" class="rounded float-start pe-3" src="../img/TYPE.png">
 
 ## Why TypeScript Stands Out
 
