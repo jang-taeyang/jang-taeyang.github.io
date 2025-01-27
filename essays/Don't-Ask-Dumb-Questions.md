@@ -11,8 +11,6 @@ labels:
 ---
 <img width="780px" class="rounded float-start pe-3" src="../img/stackoverflow-1.png">
 
-# Dont Ask Dumb Questions
-
 ## Introduction
 In software engineering, asking the right questions is just as important as finding the right answers. A smart question will display effort, clarity, and detailed respect for the reader’s time, representing the backbone of effective communication and problem-solving. Eric S. Raymond’s *"How To Ask Questions The Smart Way"* guides readers on a method for crafting questions that can lead to significant and efficient solutions. This technical essay explores two opposing examples from Stack Overflow, where there is a smart question and a poorly constructed one. A smart question will meet Raymond’s criteria, while the opposite falls short, reflecting on the factors that make a question effective.
 
