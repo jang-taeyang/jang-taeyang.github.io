@@ -14,23 +14,32 @@
     ]
   },
   "interests": [
-    { "name": "Cyber Security" },
-    { "name": "Computer Hardware" },
-    { "name": "Embedded Engineering" },
-    { "name": "Full Stack Engineering" },
-    { "name": "Renewable Energy" }
+    { "name": "Artificial Intelligence and Machine Learning" },
+    { "name": "IoT (Internet of Things) and Embedded Systems" },
+    { "name": "Cyber Security and Ethical Hacking" },
+    { "name": "Cloud Computing and Edge Computing" },
+    { "name": "Renewable and Sustainable Energy Technologies" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Python" , "Matlab", "HTML", "Python"  ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "TypeScript", "Assembly", "Python" , "HTML", "Python", "Arduino IDE", "Verilog"  ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Visual Studio Code", "Git/GitHub", "CLion", "Command Line Interface", "EDA Playground", "iTerm2", "Xilinx Vivado", "Wiliki"   ]
+      "keywords": [ "Linux", "MATLAB", "Windows/PowerShell", "macOS", "Real-Time Operating Systems (RTOS)", "Visual Studio Code", "Git/GitHub/GitLab", "CLion", "PyCharm", "Command Line Interface", "EDA Playground", "iTerm2", "Xilinx Vivado", "Wiliki", "CMake", "GNU Debugger (GDB)", "Bash/Shell Scripting"   ]
     }
   ],
   "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Fall, 2026)",
+      "studyType": "M.S.",
+      "startDate": "2025",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering (expected Spring, 2025)",
