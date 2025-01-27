@@ -23,6 +23,7 @@ In software engineering, asking the right questions is just as important as find
     <a href="https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array" target="_blank">
         <strong>Figure 1: Why is processing a sorted array faster than processing an unsorted array?</strong>
     </a>
+    <div style="margin-bottom: 20px;"></div>
 </div>
 
 A great example of a smart question comes from a Stack Overflow post titled, **"Why is processing a sorted array faster than processing an unsorted array?"**. The poster learns there is a performance difference when processing sorted versus unsorted arrays, in C++. Instead of posting a simply stated general question, the poster explained behavioral observations, shared a reproducible code portion, and provided information regarding their system setup, like the compiler and hardware utilized.
@@ -48,6 +49,7 @@ The post responses were detailed and insightful, with contributors discussing co
     <a href="https://stackoverflow.com/questions/11166034/c-sharp-math-cosdouble-returns-wrong-value" target="_blank">
         <strong>Figure 2: C# Math.Cos(double) returns wrong value</strong>
     </a>
+    <div style="margin-bottom: 20px;"></div>
 </div>
 
 On the flip side, there’s the post titled, **"C# Math.Cos(double) returns wrong value."**. The asker posts, *"In C# I have this: `double Cos = Math.Cos(32.471192290848492); //Equals 0.49299653250335213`. But when I do this in a calculator I get `(0.84366148773210745476752872050588)`. Why is it returning the wrong value?"*.
