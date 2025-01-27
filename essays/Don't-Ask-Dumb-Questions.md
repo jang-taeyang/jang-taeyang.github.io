@@ -20,7 +20,7 @@ In software engineering, asking the right questions is just as important as find
         <img width="780px" class="rounded float-start pe-3" src="../img/SMARTQUESTION.png" alt="Why is processing a sorted array faster than processing an unsorted array?">
     </a>
     <br>
-    <a href="https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array" target="_blank">
+    <a href="https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array" target="_blank" style="display: block; margin-top: 10px;">
         <strong>Figure 1: Why is processing a sorted array faster than processing an unsorted array?</strong>
     </a>
     <div style="margin-bottom: 20px;"></div>
@@ -46,7 +46,7 @@ The post responses were detailed and insightful, with contributors discussing co
         <img width="780px" class="rounded float-start pe-3" src="../img/DUMBQUESTION.png" alt="C# Math.Cos(double) returns wrong value">
     </a>
     <br>
-    <a href="https://stackoverflow.com/questions/11166034/c-sharp-math-cosdouble-returns-wrong-value" target="_blank">
+    <a href="https://stackoverflow.com/questions/11166034/c-sharp-math-cosdouble-returns-wrong-value" target="_blank" style="display: block; margin-top: 10px;">
         <strong>Figure 2: C# Math.Cos(double) returns wrong value</strong>
     </a>
     <div style="margin-bottom: 20px;"></div>
