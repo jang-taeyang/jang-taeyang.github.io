@@ -9,7 +9,7 @@ labels:
   - TypeScript
   - StackOverflow
 ---
-<img width="780px" class="rounded float-start pe-3" src="../img/TYPE.png">
+<img width="780px" class="rounded float-start pe-3" src="../img/stackoverflow-1.png">
 
 # Dont Ask Dumb Questions
 
