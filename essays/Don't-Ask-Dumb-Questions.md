@@ -50,7 +50,7 @@ Reviewing several of Raymond’s principles, this post violates:
 4. **Minimal context**:
    This asker does not explain their environment or the procedures taken to troubleshoot, leaving readers to assume and infer the basics.
 
-The responses made to this post reflect the inefficiency caused by the poorly made question. Many replies specified the distinction between degrees versus radians, providing solutions such as,
+The responses made to this post reflect the inefficiency caused by the poorly made question. Many replies specified the distinction between degrees versus radians, providing solutions such as:
 
 ```csharp
 double angleInDegrees = 32.471192290848492;
