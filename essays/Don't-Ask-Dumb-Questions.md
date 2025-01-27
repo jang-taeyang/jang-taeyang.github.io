@@ -17,14 +17,13 @@ In software engineering, asking the right questions is just as important as find
 ## A Smart Question: Why is processing a sorted array faster than processing an unsorted array?
 <div style="text-align: center;">
     <a href="https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array" target="_blank">
-        <img width="580px" class="rounded float-start pe-3" src="../img/SMARTQUESTION.png" alt="Why is processing a sorted array faster than processing an unsorted array?">
+        <img width="780px" class="rounded float-start pe-3" src="../img/SMARTQUESTION.png" alt="Why is processing a sorted array faster than processing an unsorted array?">
     </a>
     <br>
     <a href="https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array" target="_blank">
         <strong>Figure 1: Why is processing a sorted array faster than processing an unsorted array?</strong>
     </a>
 </div>
-
 
 A great example of a smart question comes from a Stack Overflow post titled, **"Why is processing a sorted array faster than processing an unsorted array?"**. The poster learns there is a performance difference when processing sorted versus unsorted arrays, in C++. Instead of posting a simply stated general question, the poster explained behavioral observations, shared a reproducible code portion, and provided information regarding their system setup, like the compiler and hardware utilized.
 
@@ -41,9 +40,9 @@ Reviewing several of Raymond’s principles, this post aligns with:
 The post responses were detailed and insightful, with contributors discussing concepts like branch prediction and CPU cache optimization. Due to how this question was posted, this online conversation not only helped the asker but also created a valuable resource for the entire Stack Overflow community.
 
 ## A Poor Question: C# Math.Cos(double) returns wrong value
-<div style="text-align: center;">
+<div style="text-align: center; margin-top: 20px;">
     <a href="https://stackoverflow.com/questions/11166034/c-sharp-math-cosdouble-returns-wrong-value" target="_blank">
-        <img width="580px" class="rounded float-start pe-3" src="../img/DUMBQUESTION.png" alt="C# Math.Cos(double) returns wrong value">
+        <img width="780px" class="rounded float-start pe-3" src="../img/DUMBQUESTION.png" alt="C# Math.Cos(double) returns wrong value">
     </a>
     <br>
     <a href="https://stackoverflow.com/questions/11166034/c-sharp-math-cosdouble-returns-wrong-value" target="_blank">
