@@ -8,7 +8,7 @@ published: true
 labels:
   - Engineering
 ---
-<img width="780px" class="rounded float-start pe-3" src="../img/TOM2.png">
+<img width="480px" class="rounded float-start pe-3" src="../img/TOM2.png">
 
 # /user/path/to/computer/engineering
 ## A Journey Fueled by Curiosity
