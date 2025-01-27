@@ -17,6 +17,7 @@ labels:
 In software engineering, asking the right questions is just as important as finding the right answers. A smart question will display effort, clarity, and detailed respect for the reader’s time, representing the backbone of effective communication and problem-solving. Eric S. Raymond’s *"How To Ask Questions The Smart Way"* guides readers on a method for crafting questions that can lead to significant and efficient solutions. This technical essay explores two opposing examples from Stack Overflow, where there is a smart question and a poorly constructed one. A smart question will meet Raymond’s criteria, while the opposite falls short, reflecting on the factors that make a question effective.
 
 ## A Smart Question: Why is processing a sorted array faster than processing an unsorted array?
+<img width="780px" class="rounded float-start pe-3" src="../img/SMARTQUESTION.png">
 *"Why is processing a sorted array faster than processing an unsorted array?"*
 [Link](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 
@@ -35,6 +36,7 @@ Reviewing several of Raymond’s principles, this post aligns with:
 The post responses were detailed and insightful, with contributors discussing concepts like branch prediction and CPU cache optimization. Due to how this question was posted, this online conversation not only helped the asker but also created a valuable resource for the entire Stack Overflow community.
 
 ## A Poor Question: C# Math.Cos(double) returns wrong value
+<img width="780px" class="rounded float-start pe-3" src="../img/DUMBQUESTION.png">
 *"C# Math.Cos(double) returns wrong value."*
 [Link](https://stackoverflow.com/questions/11166034/c-sharp-math-cosdouble-returns-wrong-value)
 
