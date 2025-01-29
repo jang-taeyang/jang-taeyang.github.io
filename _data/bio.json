@@ -18,7 +18,9 @@
     { "name": "IoT (Internet of Things) and Embedded Systems" },
     { "name": "Cyber Security and Ethical Hacking" },
     { "name": "Cloud Computing and Edge Computing" },
-    { "name": "Renewable and Sustainable Energy Technologies" }
+    { "name": "Renewable and Sustainable Energy Technologies" },
+    { "name": "Full-Stack Web Development" },
+    { "name": "Computer Architecture & Hardware Design" }
   ],
   "skills": [
     {
