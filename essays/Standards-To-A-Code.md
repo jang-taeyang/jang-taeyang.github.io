@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Standards to a Code"
+title: "Standards To A Code"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-12
 published: true
