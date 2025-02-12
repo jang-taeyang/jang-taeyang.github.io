@@ -6,8 +6,8 @@ title: "Standards To A Code"
 date: 2025-02-12
 published: true
 labels:
-  - TypeScript
-  - StackOverflow
+  - ESLint
+  - Visual Studio Code
 ---
 
 ## Introduction
