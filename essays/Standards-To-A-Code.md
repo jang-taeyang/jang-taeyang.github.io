@@ -51,11 +51,12 @@ Additionally, ESLint automates code formatting, retaining a consistent style acr
     </p>
     <p style="max-width: 600px; text-align: left; font-size: 1em; line-height: 1.6;">
       
-      This image of Visual Studio Code demonstrates ESLint detecting an issue in a file. The warning `[eslint] Missing trailing comma. (comma-dangle)` notifies that the rule enforcing trailing commas is active. In return, the developer is prompted to insert a comma at the end of object or function parameters to ensure consistency. The highlighted text and tooltip showcase how ESLint delivers real-time feedback, assisting developers in writing clean and uniform code.
+      This image of Visual Studio Code demonstrates ESLint detecting an issue in a file. The warning <code>[eslint] Missing trailing comma. (comma-dangle)</code> notifies that the rule enforcing trailing commas is active. In return, the developer is prompted to insert a comma at the end of object or function parameters to ensure consistency. The highlighted text and tooltip showcase how ESLint delivers real-time feedback, assisting developers in writing clean and uniform code.
 
     </p>
     <div style="margin-bottom: 20px;"></div>
 </div>
+
 
 
 ## Boosting Code
