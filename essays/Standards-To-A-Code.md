@@ -10,9 +10,10 @@ labels:
   - Visual Studio Code
 ---
 
-<p align="center">
-  <img width="380px" class="rounded float-start pe-3" src="../img/Code-Logo.jpg">
-</p>
+<div style="text-align: center; margin-top: 20px; display: flex; flex-direction: column; align-items: center;">
+    <img width="380px" class="rounded float-start pe-3" src="../img/Code-Logo.jpg" alt="" style="display: block;">
+    <div style="margin-bottom: 20px;"></div>
+</div>
 
 ## Introduction
 When the term "coding standards" is mentioned, the first thoughts are usually formatting conventions such as tabs versus spaces, brace positioning, or whether to use semicolons in JavaScript. While these elements contribute to consistency, the significance of coding standards reaches far beyond aesthetics. They serve as a foundation for improving code readability, maintainability, and security.
