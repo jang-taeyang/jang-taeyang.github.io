@@ -32,22 +32,31 @@ Over time, developers recognize that ESLint's alerts lead to cleaner and more re
     <p style="margin-top: 10px; text-align: center; font-size: 0.9em; font-style: italic;">
         <strong></strong>
     </p>
-    <p style="max-width: 600px; text-align: center; font-size: 1em; line-height: 1.6;">
+    <p style="max-width: 600px; text-align: left; font-size: 1em; line-height: 1.6;">
         This image illustrates how ESLint seamlessly works with VSCode to enforce automatic code formatting while preserving consistent styling conventions. It highlights the effectiveness of ESLint’s auto-fix capabilities, going beyond merely detecting issues. By leveraging this feature, developers achieve a well-structured codebase with enhanced readability and maintainability, eliminating the need for manual adjustments.
     </p>
     <div style="margin-bottom: 20px;"></div>
 </div>
 
 
+
 ## Code with Benefits
 The seamless combination of ESLint with VSCode offers multiple advantages. Immediate feedback ensures errors and inconsistencies are flagged in real time, reducing debugging efforts. Customizable rulesets allow developers to modify and tailor ESLint configurations to enforce team or project-based coding guidelines.
 Additionally, ESLint automates code formatting, retaining a consistent style across programs. This ensures that even as projects grow, they remain readable and maintainable, reducing technical debt in the long run. Below is an example of ESLint flagging an issue in VSCode.
 
-<p align="center">
-  <img width="380px" class="rounded float-start pe-3" src="../img/Code-2.jpg">
-</p>
+<div style="text-align: center; margin-top: 20px; display: flex; flex-direction: column; align-items: center;">
+    <img width="580px" src="../img/Code-2.jpg" alt="" style="display: block;">
+    <p style="margin-top: 10px; text-align: center; font-size: 0.9em; font-style: italic;">
+        <strong></strong>
+    </p>
+    <p style="max-width: 600px; text-align: left; font-size: 1em; line-height: 1.6;">
+      
+      This image of Visual Studio Code demonstrates ESLint detecting an issue in a file. The warning `[eslint] Missing trailing comma. (comma-dangle)` notifies that the rule enforcing trailing commas is active. In return, the developer is prompted to insert a comma at the end of object or function parameters to ensure consistency. The highlighted text and tooltip showcase how ESLint delivers real-time feedback, assisting developers in writing clean and uniform code.
 
-This image of Visual Studio Code demonstrates ESLint detecting an issue in a file. The warning `[eslint] Missing trailing comma. (comma-dangle)` notifies that the rule enforcing trailing commas is active. In return, the developer is prompted to insert a comma at the end of object or function parameters to ensure consistency. The highlighted text and tooltip showcase how ESLint delivers real-time feedback, assisting developers in writing clean and uniform code.
+    </p>
+    <div style="margin-bottom: 20px;"></div>
+</div>
+
 
 ## Boosting Code
 Leveraging coding standards alongside tools like ESLint reduces errors and fosters better code structure. Maintaining consistency across codebases helps future-proof projects by enhancing scalability and adaptability. As software progresses, a well-defined standard aids developers in efficiently preserving and expanding projects without introducing inconsistencies.
