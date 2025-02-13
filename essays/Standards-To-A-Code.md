@@ -11,7 +11,7 @@ labels:
 ---
 
 <div style="text-align: center; margin-top: 20px; display: flex; flex-direction: column; align-items: center;">
-    <img width="380px" class="rounded float-start pe-3" src="../img/Code-Logo.jpg" alt="" style="display: block;">
+    <img width="780px" class="rounded float-start pe-3" src="../img/Code-Logo.jpg" alt="" style="display: block;">
     <div style="margin-bottom: 20px;"></div>
 </div>
 
