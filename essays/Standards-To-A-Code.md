@@ -26,11 +26,18 @@ Learning and following coding standards from the start helps developers build po
 The initial experience of applying ESLint within VSCode can be both eye-opening and demanding. At first, the sheer number of warnings and errors may seem intimidating, making it difficult to determine where to begin debugging. However, as time passes and familiarity grows, developers begin to appreciate ESLint’s structured feedback.
 Over time, developers recognize that ESLint's alerts lead to cleaner and more readable code, reinforcing best practices that might otherwise be overlooked. ESLint encourages discipline by identifying issues before execution, allowing developers to refine their code incrementally. A simple example of how ESLint improves code quality can be seen below.
 
-<p align="center">
-  <img width="380px" class="rounded float-start pe-3" src="../img/Code-1.png">
-</p>
 
-This image illustrates how ESLint seamlessly works with VSCode to enforce automatic code formatting while preserving consistent styling conventions. It highlights the effectiveness of ESLint’s auto-fix capabilities, going beyond merely detecting issues. By leveraging this feature, developers achieve a well-structured codebase with enhanced readability and maintainability, eliminating the need for manual adjustments.
+<div style="text-align: center; margin-top: 20px; display: flex; flex-direction: column; align-items: center;">
+    <img width="580px" src="../img/Code-1.png" alt="" style="display: block;">
+    <p style="margin-top: 10px; text-align: center; font-size: 0.9em; font-style: italic;">
+        <strong></strong>
+    </p>
+    <p style="max-width: 600px; text-align: center; font-size: 1em; line-height: 1.6;">
+        This image illustrates how ESLint seamlessly works with VSCode to enforce automatic code formatting while preserving consistent styling conventions. It highlights the effectiveness of ESLint’s auto-fix capabilities, going beyond merely detecting issues. By leveraging this feature, developers achieve a well-structured codebase with enhanced readability and maintainability, eliminating the need for manual adjustments.
+    </p>
+    <div style="margin-bottom: 20px;"></div>
+</div>
+
 
 ## Code with Benefits
 The seamless combination of ESLint with VSCode offers multiple advantages. Immediate feedback ensures errors and inconsistencies are flagged in real time, reducing debugging efforts. Customizable rulesets allow developers to modify and tailor ESLint configurations to enforce team or project-based coding guidelines.
