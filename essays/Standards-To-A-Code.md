@@ -68,6 +68,6 @@ Following coding standards ensures that software projects remain maintainable ov
 Although elements like indentation and brace placement may seem minor, coding standards have a significant impact on how software is written, reviewed, and maintained. Tools such as ESLint encourage best practices that lead to cleaner and more efficient code. By enforcing a unified coding style, coding standards accelerate collaboration, improve software quality, and make debugging more manageable.
 Whether a beginner or an experienced programmer, adhering to coding standards is a crucial step toward producing reliable and efficient software solutions. Organizations that enforce these standards benefit from reduced development costs, fewer bugs, and enhanced software stability, proving that coding standards are an essential part of professional software engineering.
 
-## Artificial Intelligence
+## Artificial Intelligence <img src="../img/Code-3.jpg" width="40px" style="vertical-align: middle; margin-left: 10px;">
 This essay was enhanced with the assistance of the AI tool ChatGPT, which was used to refine structure, correct grammatical errors, and improve consistency. With the exception of examples, the content remains entirely original. The AI’s role was limited to organizing the material and enhancing readability. This collaborative approach ensured that clarity and coherence were maintained while preserving the integrity of the original work.
 
