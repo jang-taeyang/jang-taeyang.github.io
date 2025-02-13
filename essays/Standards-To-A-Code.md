@@ -9,7 +9,10 @@ labels:
   - ESLint
   - Visual Studio Code
 ---
-<img width="380px" class="rounded float-start pe-3" src="../img/Code-Logo.jpg">
+
+<p align="center">
+  <img width="380px" class="rounded float-start pe-3" src="../img/Code-Logo.jpg">
+</p>
 
 ## Introduction
 When the term "coding standards" is mentioned, the first thoughts are usually formatting conventions such as tabs versus spaces, brace positioning, or whether to use semicolons in JavaScript. While these elements contribute to consistency, the significance of coding standards reaches far beyond aesthetics. They serve as a foundation for improving code readability, maintainability, and security.
@@ -23,7 +26,9 @@ Learning and following coding standards from the start helps developers build po
 The initial experience of applying ESLint within VSCode can be both eye-opening and demanding. At first, the sheer number of warnings and errors may seem intimidating, making it difficult to determine where to begin debugging. However, as time passes and familiarity grows, developers begin to appreciate ESLint’s structured feedback.
 Over time, developers recognize that ESLint's alerts lead to cleaner and more readable code, reinforcing best practices that might otherwise be overlooked. ESLint encourages discipline by identifying issues before execution, allowing developers to refine their code incrementally. A simple example of how ESLint improves code quality can be seen below.
 
-<img width="380px" class="rounded float-start pe-3" src="../img/Code-1.png">
+<p align="center">
+  <img width="380px" class="rounded float-start pe-3" src="../img/Code-1.png">
+</p>
 
 This image illustrates how ESLint seamlessly works with VSCode to enforce automatic code formatting while preserving consistent styling conventions. It highlights the effectiveness of ESLint’s auto-fix capabilities, going beyond merely detecting issues. By leveraging this feature, developers achieve a well-structured codebase with enhanced readability and maintainability, eliminating the need for manual adjustments.
 
@@ -31,9 +36,11 @@ This image illustrates how ESLint seamlessly works with VSCode to enforce automa
 The seamless combination of ESLint with VSCode offers multiple advantages. Immediate feedback ensures errors and inconsistencies are flagged in real time, reducing debugging efforts. Customizable rulesets allow developers to modify and tailor ESLint configurations to enforce team or project-based coding guidelines.
 Additionally, ESLint automates code formatting, retaining a consistent style across programs. This ensures that even as projects grow, they remain readable and maintainable, reducing technical debt in the long run. Below is an example of ESLint flagging an issue in VSCode.
 
-<img width="380px" class="rounded float-start pe-3" src="../img/Code-2.jpg">
+<p align="center">
+  <img width="380px" class="rounded float-start pe-3" src="../img/Code-2.jpg">
+</p>
 
-This image of Visual Studio Code demonstrates ESLint detecting an issue in a file. The warning **"[eslint] Missing trailing comma. (comma-dangle)"** notifies that the rule enforcing trailing commas is active. In return, the developer is prompted to insert a comma at the end of object or function parameters to ensure consistency. The highlighted text and tooltip showcase how ESLint delivers real-time feedback, assisting developers in writing clean and uniform code.
+This image of Visual Studio Code demonstrates ESLint detecting an issue in a file. The warning `[eslint] Missing trailing comma. (comma-dangle)` notifies that the rule enforcing trailing commas is active. In return, the developer is prompted to insert a comma at the end of object or function parameters to ensure consistency. The highlighted text and tooltip showcase how ESLint delivers real-time feedback, assisting developers in writing clean and uniform code.
 
 ## Boosting Code
 Leveraging coding standards alongside tools like ESLint reduces errors and fosters better code structure. Maintaining consistency across codebases helps future-proof projects by enhancing scalability and adaptability. As software progresses, a well-defined standard aids developers in efficiently preserving and expanding projects without introducing inconsistencies.
