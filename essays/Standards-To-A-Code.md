@@ -31,7 +31,7 @@ This image illustrates how ESLint seamlessly works with VSCode to enforce automa
 The seamless combination of ESLint with VSCode offers multiple advantages. Immediate feedback ensures errors and inconsistencies are flagged in real time, reducing debugging efforts. Customizable rulesets allow developers to modify and tailor ESLint configurations to enforce team or project-based coding guidelines.
 Additionally, ESLint automates code formatting, retaining a consistent style across programs. This ensures that even as projects grow, they remain readable and maintainable, reducing technical debt in the long run. Below is an example of ESLint flagging an issue in VSCode.
 
-<img width="380px" class="rounded float-start pe-3" src="../img/Code-2.png">
+<img width="380px" class="rounded float-start pe-3" src="../img/Code-2.jpg">
 
 This image of Visual Studio Code demonstrates ESLint detecting an issue in a file. The warning **"[eslint] Missing trailing comma. (comma-dangle)"** notifies that the rule enforcing trailing commas is active. In return, the developer is prompted to insert a comma at the end of object or function parameters to ensure consistency. The highlighted text and tooltip showcase how ESLint delivers real-time feedback, assisting developers in writing clean and uniform code.
 
