@@ -41,7 +41,7 @@ Over time, developers recognize that ESLint's alerts lead to cleaner and more re
 
 
 
-## Code with Benefits <img src="../img/Code-6.png" width="30px" style="vertical-align: middle; margin-left: 10px;">
+## Code with Benefits <img src="../img/Code-6.png" width="35px" style="vertical-align: middle; margin-left: 10px;">
 The seamless combination of ESLint with VSCode offers multiple advantages. Immediate feedback ensures errors and inconsistencies are flagged in real time, reducing debugging efforts. Customizable rulesets allow developers to modify and tailor ESLint configurations to enforce team or project-based coding guidelines.
 Additionally, ESLint automates code formatting, retaining a consistent style across programs. This ensures that even as projects grow, they remain readable and maintainable, reducing technical debt in the long run. Below is an example of ESLint flagging an issue in VSCode.
 
