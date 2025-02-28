@@ -13,7 +13,8 @@ labels:
     <img width="780px" class="rounded float-start pe-3" src="../img/Bootstrap-1.jpeg" alt="" style="display: block;">
     <div style="margin-bottom: 20px;"></div>
 </div>
-## The U+I Dilemma <img src="../img/Struggle.png" width="40px" style="vertical-align: middle; margin-left: 10px;">
+
+## The U+I Dilemma <img src="../img/Struggle.png" width="45px" style="vertical-align: middle; margin-left: 10px;">
 UI frameworks often give the impression of being an unnecessary layer of complexity, leading many software developers to question whether the rewards outweigh the effort. Raw HTML and CSS provide users with complete control over styling and layout, offering flexibility that some developers prefer. Even though there is a steep learning curve associated with UI frameworks, solutions like Bootstrap 5 offer significant advantages in development speed, consistency, and maintainability. 
 Throughout this essay, the benefits of UI frameworks will be explored and compared with raw HTML and CSS, along with a personal perspective on the utilization of Bootstrap 5 and Semantic UI. The purpose of this discussion is to showcase the importance of investing in UI frameworks and explain why it is a strategic decision for modern web development.
 
