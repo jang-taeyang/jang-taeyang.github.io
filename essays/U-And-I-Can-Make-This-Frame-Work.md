@@ -42,7 +42,7 @@ UI frameworks also enhance scalability, aiding development teams in managing and
 A web page built without a UI framework requires custom CSS for each element, manually designed layouts, and extra effort to achieve responsiveness. In contrast, a web page created with Bootstrap 5 takes advantage of structured grid systems, pre-styled components, and built-in responsive design, simplifying the development process.
 For example, consider a simple Bootstrap layout:
 <div style="text-align: center; margin-top: 20px; display: flex; flex-direction: column; align-items: center;">
-    <img width="580px" src="../img/Bootstrap-2.png" alt="" style="display: block;">
+    <img width="380px" src="../img/Bootstrap-2.png" alt="" style="display: block;">
     <p style="margin-top: 10px; text-align: center; font-size: 0.9em; font-style: italic;">
         <strong></strong>
     </p>
