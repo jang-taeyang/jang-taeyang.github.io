@@ -26,19 +26,19 @@ UI frameworks simplify this process by providing pre-designed, well-tested compo
 Bootstrap 5 is one of the most well-known UI frameworks due to its high versatility and ease of implementation. It also offers a comprehensive collection of pre-styled components that help speed up the development process. Compared to its predecessors, Bootstrap 5 is no longer dependent on jQuery, making it a more lightweight and modern framework.
 Its most notable features include a utility-first design that reduces the need for custom CSS, an upgraded grid system that enhances responsiveness, and customizable variables that simplify styling. It also offers advanced accessibility improvements, such as refined focus states and ARIA attributes. Due to these features, Bootstrap 5 is an extremely valuable tool for developers at all levels.
 
-## Bootstrap vs. Semantic UI <img src="../img/versus-1.jpg" width="35px" style="vertical-align: middle; margin-left: 10px;">
+## Bootstrap <img src="../img/versus-1.jpg" width="35px" style="vertical-align: middle; margin-left: 10px;"> Semantic UI
 While Bootstrap is considered an industry standard, it is not the only option available. Semantic UI offers a different approach by prioritizing readability with a more human-friendly class naming system. Compared to Bootstrap, which is a more utility-based, mobile-first platform, Semantic UI utilizes intuitive class names for easier code readability and understanding.
 
 One of the key differences between these frameworks is their grid systems. Bootstrap 5 employs a flexbox-based grid, while Semantic UI has a custom grid system with its own set of rules. Another significant difference lies in customization. Bootstrap relies on SCSS variables and utility classes, whereas Semantic UI offers an extensive theming system with built-in configuration features.
 
 From personal experience, Semantic UI seems more intuitive since it has natural language class names, such as `ui button` compared to Bootstrap’s `btn btn-primary`. However, Bootstrap includes comprehensive documentation with broad community support. Additionally, it is an industry-wide standard, making it the more practical choice for real-world projects requiring scalability and long-term maintainability.
 
-## UI Frameworks vs. The Bare-Bones Approach <img src="../img/versus-2.avif" width="35px" style="vertical-align: middle; margin-left: 10px;">
+## UI Frameworks <img src="../img/versus-2.avif" width="35px" style="vertical-align: middle; margin-left: 10px;"> The Bare-Bones Approach
 Some developers prefer to completely avoid UI frameworks, arguing that they add unnecessary bloat and restrict design flexibility. Although this is a valid concern in certain situations, the benefits of UI frameworks often outweigh the drawbacks, especially for larger projects. These frameworks significantly reduce development time by providing pre-built, reusable components while ensuring a consistent aesthetic and user experience across an application.
 
 UI frameworks also enhance scalability, aiding development teams in managing and expanding their projects efficiently. While manually coding HTML and CSS may be sufficient for simpler projects, increasing complexity makes UI frameworks more beneficial. They allow developers to focus on essential functionality rather than spending excessive time refining styles and configuring layouts.
 
-## Seeing Is Believing: UI Frameworks in Action <img src="../img/Eyes.jpg" width="35px" style="vertical-align: middle; margin-left: 10px;">
+## Seeing Is Believing: UI Frameworks in Action <img src="../img/Eyes.jpg" width="40px" style="vertical-align: middle; margin-left: 10px;">
 A web page built without a UI framework requires custom CSS for each element, manually designed layouts, and extra effort to achieve responsiveness. In contrast, a web page created with Bootstrap 5 takes advantage of structured grid systems, pre-styled components, and built-in responsive design, simplifying the development process.
 For example, consider a simple Bootstrap layout:
 <div style="text-align: center; margin-top: 20px; display: flex; flex-direction: column; align-items: center;">
