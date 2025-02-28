@@ -9,9 +9,6 @@ labels:
   - Bootstrap 5
   - UI Frameworks
 ---
-
-**U and I Can Make This Frame Work**
-
 <div style="text-align: center; margin-top: 20px; display: flex; flex-direction: column; align-items: center;">
     <img width="780px" class="rounded float-start pe-3" src="../img/Bootstrap-1.jpeg" alt="" style="display: block;">
     <div style="margin-bottom: 20px;"></div>
