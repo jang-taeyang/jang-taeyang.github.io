@@ -20,7 +20,7 @@ Mākaukau is a web-based application designed to address this issue by helping U
 ## The Issue <img src="../img/issue.png" width="50px" style="vertical-align: middle; margin-left: 10px;">
 Students at UH Manoa currently have no centralized system for tracking the technical skills they develop throughout their academic journey. Course descriptions often lack detail, and once a class is over, students rarely take the time to reflect on the specific tools or technologies they’ve learned. This becomes a real challenge when it’s time to apply for internships, update a LinkedIn profile, or prepare graduate school applications. While students may have gained experience with tools like TypeScript, Git, or Agile practices, there’s no structured way to document or revisit that knowledge.
 
-## The Tissue <img src="../img/tissue.jpg" width="50px" style="vertical-align: middle; margin-left: 10px;">
+## The Tissue <img src="../img/tissue.jpg" width="60px" style="vertical-align: middle; margin-left: 10px;">
 Mākaukau offers a personalized approach to helping students manage and present their technical skills. After registering and logging in, users can look up UH Manoa courses they’ve completed and tag each one with the tools, technologies, or concepts they learned. These entries are saved to a private dashboard that continuously updates to reflect the student’s technical background. Users can filter their skills by category, review their entire portfolio, and export a customized résumé in Markdown or PDF format when needed. This tailored experience fulfills the “special sauce” requirement, as each user interacts with a unique dashboard based on their academic path. The project is designed specifically for the UH Manoa community, with a strong focus on ICS, Computer Engineering, and STEM students, ensuring it remains closely aligned with the local engagement goals of the ICS 314 final project.
 
 ## What's Good? <img src="../img/Code-6.png" width="40px" style="vertical-align: middle; margin-left: 10px;">
@@ -28,16 +28,16 @@ Mākaukau will include several key pages to support its core functionality. The 
 
 In addition to the core features, several enhancements are planned as stretch goals. These include smart skill tag suggestions based on community data, visual insights into skill trends over time, and anonymized peer comparisons such as “Top 5 skills tagged in ICS 314.”
 
-## Apply to Apply <img src="../img/apply.avif" width="50px" style="vertical-align: middle; margin-left: 10px;">
+## Apply to Apply <img src="../img/apply.avif" width="60px" style="vertical-align: middle; margin-left: 10px;">
 This project benefits a wide range of students at UH. A first-year student can begin developing their skill portfolio from the start, making it easier to monitor their progress throughout each semester. For graduating seniors, the app provides a convenient way to compile and export a résumé showcasing the technical skills they've gained, which can be used for job or internship applications. Peer advisors or career counselors can also use the platform alongside students to identify skill gaps and offer guidance on areas to focus on for future growth.
 
-## Dont Be Basic <img src="../img/basic.png" width="70px" style="vertical-align: middle; margin-left: 10px;">
+## Dont Be Basic <img src="../img/basic.png" width="80px" style="vertical-align: middle; margin-left: 5px;">
 Although the core features of the minimum viable product (MVP) focus on tagging skills and generating résumés, our team has identified several additional features that could enhance the overall user experience. These potential improvements include intelligent skill suggestions based on patterns from other users, anonymized leaderboards highlighting the most commonly tagged skills for specific courses, privacy controls that allow users to choose who can view their portfolios, and UH email verification to confirm user identity and restrict access to the UH community. These enhancements aim to make the platform more user-friendly while fostering a collaborative, campus-wide tool that students can continue to benefit from throughout their academic journey.
 
 ## Wrapping It Up <img src="../img/Conclusion-Logo.jpg" width="50px" style="vertical-align: middle; margin-left: 10px;">
 Mākaukau is more than just a résumé helper—it’s a tool built by students, for students, with the goal of making technical skill development more visible, organized, and empowering. By allowing users to actively track and reflect on what they’ve learned, the app helps bridge the gap between coursework and career readiness. Whether you're just getting started in ICS or preparing to graduate, Mākaukau can support your academic journey, give you confidence in your skills, and help you tell your story—one course at a time.
 
-## The Man <img src="../img/man.jpg" width="60px" style="vertical-align: middle; margin-left: 10px;"> 
+## The Man <img src="../img/man.jpg" width="70px" style="vertical-align: middle; margin-left: 5px;"> 
 This project was collaboratively proposed and developed by Alexander Chang. All content, ideas, and technical directions were the result of group discussions and planning sessions. This essay reflects a shared vision of the problem and the collaborative design of the solution.
 
 ## Artificial Intelligence <img src="../img/Code-3.jpg" width="40px" style="vertical-align: middle; margin-left: 10px;">
