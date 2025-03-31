@@ -28,7 +28,7 @@ Mākaukau will include several key pages to support its core functionality. The 
 
 In addition to the core features, several enhancements are planned as stretch goals. These include smart skill tag suggestions based on community data, visual insights into skill trends over time, and anonymized peer comparisons such as “Top 5 skills tagged in ICS 314.”
 
-## Apply to Apply <img src="../img/apply.avif" width="60px" style="vertical-align: middle; margin-left: 10px;">
+## Apply To Apply <img src="../img/apply.avif" width="60px" style="vertical-align: middle; margin-left: 10px;">
 This project benefits a wide range of students at UH. A first-year student can begin developing their skill portfolio from the start, making it easier to monitor their progress throughout each semester. For graduating seniors, the app provides a convenient way to compile and export a résumé showcasing the technical skills they've gained, which can be used for job or internship applications. Peer advisors or career counselors can also use the platform alongside students to identify skill gaps and offer guidance on areas to focus on for future growth.
 
 ## Dont Be Basic <img src="../img/basic.png" width="80px" style="vertical-align: middle; margin-left: 5px;">
@@ -37,7 +37,7 @@ Although the core features of the minimum viable product (MVP) focus on tagging 
 ## Wrapping It Up <img src="../img/Conclusion-Logo.jpg" width="50px" style="vertical-align: middle; margin-left: 10px;">
 Mākaukau is more than just a résumé helper—it’s a tool built by students, for students, with the goal of making technical skill development more visible, organized, and empowering. By allowing users to actively track and reflect on what they’ve learned, the app helps bridge the gap between coursework and career readiness. Whether you're just getting started in ICS or preparing to graduate, Mākaukau can support your academic journey, give you confidence in your skills, and help you tell your story—one course at a time.
 
-## The Man <img src="../img/man.jpg" width="70px" style="vertical-align: middle; margin-left: 0px;"> 
+## The Man, The Myth, The Legend <img src="../img/man.jpg" width="70px" style="vertical-align: middle; margin-left: 10px;"> 
 This project was collaboratively proposed and developed by Alexander Chang. All content, ideas, and technical directions were the result of group discussions and planning sessions. This essay reflects a shared vision of the problem and the collaborative design of the solution.
 
 ## Artificial Intelligence <img src="../img/Code-3.jpg" width="40px" style="vertical-align: middle; margin-left: 10px;">
