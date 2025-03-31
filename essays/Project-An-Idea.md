@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="380px" class="rounded float-start pe-3" src="../img/skills-tracker.png">
+<img width="380px" class="rounded float-start pe-3" src="../img/UH_Manoa_Logo.png">
 
 ## Introduction <img src="../img/Introduction-Logo.jpg" width="40px" style="vertical-align: middle; margin-left: 10px;">
 When students at the University of Hawaii at Manoa, especially those in ICS or Computer Engineering, begin crafting résumés for internships, jobs, or scholarships, a common challenge they face is remembering the technical skills they've gained throughout their coursework. As deadlines approach, many students experience stress and uncertainty, struggling to recall whether they used React in ICS 314, wrote C code in ICS 212, or practiced agile methodologies in EE 491.  
