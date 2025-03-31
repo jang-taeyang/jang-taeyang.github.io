@@ -37,7 +37,7 @@ Although the core features of the minimum viable product (MVP) focus on tagging 
 ## Wrapping It Up <img src="../img/Conclusion-Logo.jpg" width="50px" style="vertical-align: middle; margin-left: 10px;">
 Mākaukau is more than just a résumé helper—it’s a tool built by students, for students, with the goal of making technical skill development more visible, organized, and empowering. By allowing users to actively track and reflect on what they’ve learned, the app helps bridge the gap between coursework and career readiness. Whether you're just getting started in ICS or preparing to graduate, Mākaukau can support your academic journey, give you confidence in your skills, and help you tell your story—one course at a time.
 
-## The Man, The Myth, The Legend <img src="../img/man.jpg" width="70px" style="vertical-align: middle; margin-left: 10px;"> 
+## The Man, The Myth, The Legend <img src="../img/man.jpg" width="70px" style="vertical-align: middle; margin-left: -10px;"> 
 This project was collaboratively proposed and developed by Alexander Chang. All content, ideas, and technical directions were the result of group discussions and planning sessions. This essay reflects a shared vision of the problem and the collaborative design of the solution.
 
 ## Artificial Intelligence <img src="../img/Code-3.jpg" width="40px" style="vertical-align: middle; margin-left: 10px;">
