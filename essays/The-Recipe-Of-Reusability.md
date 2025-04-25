@@ -10,7 +10,7 @@ labels:
   - ICS 314
 ---
 
-<img width="380px" class="rounded float-start pe-3" src="../img/kitchen-pattern.jpg">
+<img width="380px" class="rounded float-start pe-3" src="../img/recipe.jpg">
 
 ## Introduction <img src="../img/Introduction-Logo.jpg" width="40px" style="vertical-align: middle; margin-left: 10px;">
 Imagine walking into a high-end professional kitchen during its busiest hours. There’s a symphony of motion: chefs expertly navigating tight spaces, ingredients precisely measured, and dishes emerging in perfect sequence. At first glance, it may seem like chaos, but there is a deeper order beneath it all. This harmony does not come solely from talent or experience. It is the result of a shared system that relies on repeatable, proven patterns embedded in every recipe and workflow. These patterns serve as structured guides that streamline decision-making and ensure consistent quality under pressure.
