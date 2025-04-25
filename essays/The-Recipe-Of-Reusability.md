@@ -43,3 +43,4 @@ As I continue to grow as a software developer, I will carry these design princip
 
 ## Artificial Intelligence <img src="../img/Code-3.jpg" width="40px" style="vertical-align: middle; margin-left: 10px;">
 This essay was developed by **Alex** and refined with the assistance of ChatGPT to help structure sections, clarify phrasing, and maintain consistency in tone. All content ideas, metaphors, and development strategies reflect my original thoughts and project work. AI tools were used only to enhance readability and presentation.
+
