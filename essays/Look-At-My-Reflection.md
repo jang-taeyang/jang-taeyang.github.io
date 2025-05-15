@@ -18,7 +18,7 @@ As I near the completion of ICS 314, I reflect on the comprehensive journey thro
 
 Throughout this semester, ICS 314 offered hands-on experience through various projects, assignments, and collaborative tasks. These activities planted my understanding of how to apply theory to practical applicatons, preparing me for real-world software engineering challenges. 
 
-## Design Patterns: Structured Solutions for Complex Problems <img src="../img/design-patterns.png" width="70px" style="vertical-align: middle; margin-left: 10px;">
+## Design Patterns: Structured Solutions for Complex Problems <img src="../img/patterns.png" width="70px" style="vertical-align: middle; margin-left: 10px;">
 Design patterns are proven solutions to persistent software design challenges. They provide a blueprint for creating modular and reusable code structures, promoting consistency and reducing redundancy. In ICS 314, we applied several design patterns, like in the **Bowfolios project**, where we developed a profile management application using Next.js as the main framework, React for the frontend, and PostgreSQL as the database. The application aimed to manage user profiles, skills, and interests, allowing users to view, update, and connect profiles within a professional networking context.
 
 ### Bowfolios: Applying the MVC Pattern
@@ -35,7 +35,7 @@ This approach mirrors real-world applications where UI elements need to update a
 
 By working on these assignments, I gained practical experience in identifying and applying appropriate design patterns to solve specific problems. This experience is invaluable not only in web development but also in software architecture and design in general.
 
-## Coding Standards: Ensuring Quality and Consistency <img src="../img/coding-standards.png" width="70px" style="vertical-align: middle; margin-left: 10px;">
+## Coding Standards: Ensuring Quality and Consistency <img src="../img/checklist.png" width="70px" style="vertical-align: middle; margin-left: 10px;">
 Coding standards are essential for maintaining code quality, readability, and consistency, especially in collaborative environments. In ICS 314, we adhered to standardized coding practices, primarily through the **Airbnb TypeScript style guide** and **ESLint** configurations.
 
 ### Fixing Bad TypeScript: A Lesson in Code Hygiene
