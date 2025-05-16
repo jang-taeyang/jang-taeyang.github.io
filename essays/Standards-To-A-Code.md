@@ -46,7 +46,7 @@ The seamless combination of ESLint with VSCode offers multiple advantages. Immed
 Additionally, ESLint automates code formatting, retaining a consistent style across programs. This ensures that even as projects grow, they remain readable and maintainable, reducing technical debt in the long run. Below is an example of ESLint flagging an issue in VSCode.
 
 <div style="text-align: center; margin-top: 20px; display: flex; flex-direction: column; align-items: center;">
-    <img width="580px" src="../img/Code-2.jpg" alt="" style="display: block;">
+    <img width="580px" src="../img/essay/cover/Code-2.jpg" alt="" style="display: block;">
     <p style="margin-top: 10px; text-align: center; font-size: 0.9em; font-style: italic;">
         <strong></strong>
     </p>
