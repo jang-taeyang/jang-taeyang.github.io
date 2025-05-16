@@ -9,9 +9,9 @@ labels:
   - TypeScript
   - StackOverflow
 ---
-<img width="380px" class="rounded float-start pe-3" src="../img/stackoverflow-1.png">
+<img width="380px" class="rounded float-start pe-3" src="../img/essay/stackoverflow-1.png">
 
-## Introduction
+## Introduction <img src="../img/essay/header/Introduction-Logo.jpg" width="35px" style="vertical-align: middle; margin-left: 10px;">
 In software engineering, asking the right questions is just as important as finding the right answers. A smart question will display effort, clarity, and detailed respect for the reader’s time, representing the backbone of effective communication and problem-solving. Eric S. Raymond’s *"How To Ask Questions The Smart Way"* guides readers on a method for crafting questions that can lead to significant and efficient solutions. This technical essay explores two opposing examples from Stack Overflow, where there is a smart question and a poorly constructed one. A smart question will meet Raymond’s criteria, while the opposite falls short, reflecting on the factors that make a question effective.
 
 ## <span style="position: sticky; top: 0; background-color: white; z-index: 100; display: inline-block; width: 100%;">A Smart Question: Why is processing a sorted array faster than processing an unsorted array?</span>
@@ -73,16 +73,16 @@ Console.WriteLine(cos); // Correct value in radians
 
 Even though the responses fixed the immediate issue, this question missed the chance to explore trigonometric functions in greater depth, limiting its value to the community and its readers.
 
-## Comparable Lessons
+## Comparable Lessons <img src="../img/essay/header/scale.png" width="40px" style="vertical-align: middle; margin-left: 10px;">
 Comparing these two examples showcases the significance of preparation and clarity in technical, online communication. The well-explained question about sorted arrays brought forth thoughtful and detailed responses that improved the community’s collective knowledge. In contrast, the poorly constructed `Math.Cos` question led to a superficial conversation that resolved the immediate issue but missed an opportunity for broader understanding.
 
 Raymond’s principles highlight the value in maintaining meaningful engagement. Smart questions save time, attract collaborative problem-solving, and generate insights that benefit others. On the other hand, poorly framed questions waste the time of readers and often lead to less impactful answers.
 
-## Insights
+## Insights <img src="../img/essay/header/Eyes.jpg" width="45px" style="vertical-align: middle; margin-left: 10px;">
 These examples reinforce why smart questions should be asked. It showcases that it is both a skill and a habit. It requires effort, preparation, and genuine respect for the time and expertise of those who may respond to provide insightful knowledge. By following the guidelines of Raymond’s principles, we can ensure our questions are clear, concise, and engaging. This will lead to a higher chance of receiving better outcomes, including better experiences for everyone involved. For software engineers, this methodical approach is crucial for professional growth, creating strong collaboration, and maintaining a strong foundation for the surrounding community.
 
-## Conclusion
+## Conclusion <img src="../img/essay/header/Conclusion-Logo.jpg" width="45px" style="vertical-align: middle; margin-left: 10px;">
 In conclusion, asking smart questions is a fundamental skill for software engineers. By providing thoughtful inquiries and considering Raymond’s guidelines, we can improve our problem-solving capabilities and contribute to a culture of respect and shared learning. The opposing examples provided from Stack Overflow demonstrate how important Raymond’s principles are, leading to more effective and meaningful interactions. If these principles are neglected, there is a higher chance of resulting in frustration and wasted effort in response. In the end, the approach to crafting questions shapes the quality of the answers we receive in return, and the depth of the connections we build.
 
-## Artificial Intelligence
+## Artificial Intelligence <img src="../img/essay/header/AI.jpeg" width="40px" style="vertical-align: middle; margin-left: 10px;">
 This essay was aided by the use of the AI tool ChatGPT, which was employed to enhance the structure and correct grammatical and spelling errors. The content of this technical essay, excluding referenced examples, is entirely my own. The AI provided support in organizing the material and improving readability. This collaborative approach ensured that the clarity and coherence of the essay were maintained while staying true to my original material.

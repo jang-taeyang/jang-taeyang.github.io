@@ -11,14 +11,14 @@ labels:
   - ICS 314
 ---
 
-<img width="780px" class="rounded float-start pe-3" src="../img/Reflection.jxl">
+<img width="780px" class="rounded float-start pe-3" src="../img/essay/cover/Reflection.jxl">
 
-## Introduction <img src="../img/Introduction-Logo.jpg" width="40px" style="vertical-align: middle; margin-left: 10px;">
+## Introduction <img src="../img/essay/header/Introduction-Logo.jpg" width="40px" style="vertical-align: middle; margin-left: 10px;">
 As I near the completion of ICS 314, I reflect on the comprehensive journey through software engineering principles that extend far beyond web application development. This course provided a deep dive into foundational concepts such as **Design Patterns** and **Coding Standards**. These topics are crucial for developing strong, maintainable, and scalable software systems. These concepts not only improve technical skills but also help develop a mindset aimed towards creating durable and efficient solutions. 
 
 Throughout this semester, ICS 314 offered hands-on experience through various projects, assignments, and collaborative tasks. These activities planted my understanding of how to apply theory to practical applicatons, preparing me for real-world software engineering challenges. 
 
-## Design Patterns <img src="../img/patterns.png" width="50px" style="vertical-align: middle; margin-left: 10px;">
+## Design Patterns <img src="../img/essay/header/patterns.png" width="55px" style="vertical-align: middle; margin-left: 10px;">
 Design patterns are proven solutions to persistent software design challenges. They provide a blueprint for creating modular and reusable code structures, promoting consistency and reducing redundancy. In ICS 314, we applied several design patterns, like in the **Bowfolios project**, where we developed a profile management application using Next.js as the main framework, React for the frontend, and PostgreSQL as the database. The application aimed to manage user profiles, skills, and interests, allowing users to view, update, and connect profiles within a professional networking context.
 
 ### Bowfolios: Applying the MVC Pattern
@@ -35,7 +35,7 @@ This approach mirrors real-world applications where UI elements need to update a
 
 By working on these assignments, I gained practical experience in identifying and applying appropriate design patterns to solve specific problems. This experience is invaluable not only in web development but also in software architecture and design in general.
 
-## Coding Standards: Ensuring Quality and Consistency <img src="../img/checklist.png" width="35px" style="vertical-align: middle; margin-left: 10px;">
+## Coding Standards: Ensuring Quality and Consistency <img src="../img/essay/header/checklist.png" width="35px" style="vertical-align: middle; margin-left: 10px;">
 Coding standards are essential for maintaining code quality, readability, and consistency, especially in collaborative environments. In ICS 314, we adhered to standardized coding practices, primarily through the **Airbnb TypeScript style guide** and **ESLint** configurations.
 
 ### Fixing Bad TypeScript: A Lesson in Code Hygiene
@@ -48,10 +48,10 @@ In the [Final Project: Milestone 1](http://courses.ics.hawaii.edu/ics314s25/more
 
 By maintaining consistent practices, we avoided style conflicts and ensured that our merged code was uniform. This not only reduced friction during code reviews but also made the final product more professional and maintainable.
 
-## Final Thoughts <img src="../img/Conclusion-Logo.jpg" width="50px" style="vertical-align: middle; margin-left: 10px;">
+## Final Thoughts <img src="../img/essay/header/Conclusion-Logo.jpg" width="50px" style="vertical-align: middle; margin-left: 10px;">
 ICS 314 has significantly enhanced my understanding of software engineering. The practical application of **Design Patterns** provided me with the tools for solving complex architectural problems, while abiding by strict **Coding Standards**, fostering a disciplined approach to writing clean, efficient code. These concepts have proven significant not only in web development but also in the development of structured thinking and effective collaboration in software projects.
 
 Moving forward, I will apply these principles to future projects, whether I am developing a mobile application, building a backend system, or collaborating with a team. The skills gained from ICS 314 will undoubtedly shape my approach to problem-solving and software development in my professional career.
 
-## Artificial Intelligence <img src="../img/Code-3.jpg" width="40px" style="vertical-align: middle; margin-left: 10px;">
+## Artificial Intelligence <img src="../img/essay/header/AI.jpeg" width="40px" style="vertical-align: middle; margin-left: 10px;">
 This essay was refined with the assistance of ChatGPT to help structure sections, clarify phrasing, and maintain consistency in tone. All content ideas, metaphors, and development strategies reflect my original thoughts and project work. AI tools were used only to enhance readability and presentation.

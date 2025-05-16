@@ -15,7 +15,7 @@ My journey into software engineering began with an early interest in web develop
 
 Cultural influences also played a role in shaping my aspirations. Films like The Social Network highlighted how technical expertise combined with innovative ideas can drive significant change. These examples fueled my ambition to create impactful software solutions. Additionally, the increasing emphasis on programming education in schools underscores the growing importance of software engineering in shaping the future. This serves as a constant motivation to refine my skills and adapt in a field that continues to evolve rapidly.
 
-## Skills and Experiences to Build Upon <img src="../img/essay/header/man.jpg" width="45px" style="vertical-align: middle; margin-left: 10px;">
+## Skills and Experiences to Build Upon <img src="../img/essay/header/man.jpg" width="85px" style="vertical-align: middle; margin-left: 10px;">
 
 As I progress in my career, I am focused on strengthening my expertise in scalable software design and architecture, with a particular emphasis on cloud computing and distributed systems. I also aim to deepen my proficiency in data-driven development, particularly in integrating machine learning and data analytics. These capabilities will enable me to create intelligent, adaptive systems that effectively address real-world challenges. Moreover, I am seeking opportunities to work in agile, collaborative environments where I can further hone my problem-solving abilities and gain practical experience delivering high-quality solutions.
 
