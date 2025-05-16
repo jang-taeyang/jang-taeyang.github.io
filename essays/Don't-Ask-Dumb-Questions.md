@@ -9,7 +9,7 @@ labels:
   - TypeScript
   - StackOverflow
 ---
-<img width="380px" class="rounded float-start pe-3" src="../img/essay/stackoverflow-1.png">
+<img width="380px" class="rounded float-start pe-3" src="../img/essay/cover/stackoverflow-1.png">
 
 ## Introduction <img src="../img/essay/header/Introduction-Logo.jpg" width="35px" style="vertical-align: middle; margin-left: 10px;">
 In software engineering, asking the right questions is just as important as finding the right answers. A smart question will display effort, clarity, and detailed respect for the reader’s time, representing the backbone of effective communication and problem-solving. Eric S. Raymond’s *"How To Ask Questions The Smart Way"* guides readers on a method for crafting questions that can lead to significant and efficient solutions. This technical essay explores two opposing examples from Stack Overflow, where there is a smart question and a poorly constructed one. A smart question will meet Raymond’s criteria, while the opposite falls short, reflecting on the factors that make a question effective.
@@ -18,7 +18,7 @@ In software engineering, asking the right questions is just as important as find
 
 <div style="text-align: center; margin-top: 20px; display: flex; flex-direction: column; align-items: center;">
     <a href="https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array" target="_blank">
-        <img width="580px" src="../img/SMARTQUESTION.png" alt="Why is processing a sorted array faster than processing an unsorted array?" style="display: block;">
+        <img width="580px" src="../img/essay/cover/SMARTQUESTION.png" alt="Why is processing a sorted array faster than processing an unsorted array?" style="display: block;">
     </a>
     <a href="https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array" target="_blank" style="margin-top: 10px; text-align: center; font-size: 0.9em; font-style: italic;">
         <strong>Figure 1: Why is processing a sorted array faster than processing an unsorted array?</strong>
@@ -43,7 +43,7 @@ The post responses were detailed and insightful, with contributors discussing co
 ## A Poor Question: C# Math.Cos(double) returns wrong value
 <div style="text-align: center; margin-top: 20px; display: flex; flex-direction: column; align-items: center;">
     <a href="https://stackoverflow.com/questions/11166034/c-sharp-math-cosdouble-returns-wrong-value" target="_blank">
-        <img width="580px" src="../img/DUMBQUESTION.png" alt="C# Math.Cos(double) returns wrong value" style="display: block;">
+        <img width="580px" src="../img/essay/cover/DUMBQUESTION.png" alt="C# Math.Cos(double) returns wrong value" style="display: block;">
     </a>
     <a href="https://stackoverflow.com/questions/11166034/c-sharp-math-cosdouble-returns-wrong-value" target="_blank" style="margin-top: 10px; text-align: center; font-size: 0.9em; font-style: italic;">
         <strong>Figure 2: C# Math.Cos(double) returns wrong value</strong>
