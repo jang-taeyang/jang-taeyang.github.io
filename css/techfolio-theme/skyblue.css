@@ -20,7 +20,7 @@
   --tf-projects-bg-color: var(--tf-blue4);
 }
 
-h1, h2, h3, h4, h5 {
+h1,h2,h3,h4,h5 {
   color: var(--tf-blue1);
   font-family: Rubik;
 }
@@ -43,7 +43,6 @@ a {
   text-decoration: none;
 }
 
-/* Hide the navbar brand on small screens */
 @media (max-width: 500px) {
   .navbar-brand {
     display: none;
@@ -54,67 +53,8 @@ a {
   }
 }
 
-/* Style rounded profile pictures */
 .rounded-circle {
   border-color: var(--tf-blue1);
   border-style: solid;
   border-width: 1px;
-}
-
-/* Locking the entire site to a fixed width */
-body, html {
-    overflow-x: hidden; /* Prevent horizontal scroll */
-}
-
-/* Fix the main content width and center it */
-.container, .content, .main-content, .site-content, .tf-main, .wrapper {
-    max-width: 1200px; /* Set a fixed width for the site */
-    min-width: 1200px; /* Prevent shrinking below this width */
-    margin: 0 auto; /* Center the content on the screen */
-    position: relative;
-}
-
-/* Ensure the header and footer are also fixed */
-header, footer, .navbar, .tf-header {
-    max-width: 1200px;
-    min-width: 1200px;
-    margin: 0 auto;
-}
-
-/* Disable responsive adjustments for smaller screens */
-@media (max-width: 1200px) {
-    .container, .content, .main-content, .site-content, .tf-main, .wrapper, header, footer, .navbar, .tf-header {
-        max-width: 1200px;
-        min-width: 1200px;
-    }
-}
-
-/* Center the logo and cover images */
-.cover-logo, .tf-logo, .project-logo {
-    display: block;
-    margin: 0 auto;
-    text-align: center;
-}
-
-/* Adjust image scaling */
-img {
-    max-width: 100%;
-    height: auto;
-}
-
-/* Center the main heading and logo */
-.tf-main-header, .cover-logo img {
-    margin: 0 auto;
-    display: block;
-}
-
-/* Fix the logo and cover image alignment */
-.cover-logo {
-    text-align: center;
-    margin: 20px 0;
-}
-
-.tf-logo img, .cover-logo img {
-    max-width: 300px; /* Adjust size as needed */
-    height: auto;
 }
