@@ -1,4 +1,4 @@
-{ 
+{
   "basics": {
     "name": "Alexander TaeYang Chang",
     "label": "Student",
@@ -7,10 +7,24 @@
     "phone": "808-773-2572",
     "website": "https://jang-taeyang.github.io",
     "summary": "I am an ambitious and dedicated student pursuing a Bachelor of Science (B.S.) and Master of Science (M.S.) in Computer Engineering in the Department of Electrical and Computer Engineering at the University of Hawai‘i at Mānoa. I previously graduated from the same institution with a Bachelor of Arts (B.A.) in Sociology in Fall 2019. As a participant in the University's BAM (Bachelor's and Master's) program, I am on an accelerated pathway to achieve both degrees. I expect to graduate with my B.S. in Spring 2025 and anticipate completing my M.S. by Fall 2026.",
-    "location": { "address": "2206 Laukahi Street", "postalCode": "96821", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": {
+      "address": "2206 Laukahi Street",
+      "postalCode": "96821",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "jang-taeyang", "url": "http://github.com/jang-taeyang" },
-      { "network": "linkedin", "username": "changtaeyang", "url": "http://linkedin.com/in/changtaeyang" }
+      {
+        "network": "github",
+        "username": "jang-taeyang",
+        "url": "http://github.com/jang-taeyang"
+      },
+      {
+        "network": "linkedin",
+        "username": "changtaeyang",
+        "url": "http://linkedin.com/in/changtaeyang"
+      }
     ]
   },
   "interests": [
@@ -24,54 +38,64 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "TypeScript", "Assembly", "Python" , "HTML", "Python", "Arduino IDE", "Verilog"  ]
+      "name": "Software Tools",
+      "keywords": ["C", "C++", "Java", "JavaScript", "TypeScript", "Python", "HTML", "Bash/Shell Scripting", "Assembly", "MATLAB", "Verilog", "RTOS", "Visual Studio Code", "Git/GitHub/GitLab", "Linux", "macOS", "Windows/PowerShell"]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "Linux", "MATLAB", "Windows/PowerShell", "macOS", "Real-Time Operating Systems (RTOS)", "Visual Studio Code", "Git/GitHub/GitLab", "CLion", "PyCharm", "Command Line Interface", "EDA Playground", "iTerm2", "Xilinx Vivado", "Wiliki", "CMake", "GNU Debugger (GDB)", "Bash/Shell Scripting"   ]
+      "name": "Hardware Tools",
+      "keywords": ["Arduino IDE", "Xilinx Vivado", "EDA Playground", "CMake", "GDB", "CLion", "iTerm2"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Fall, 2026)",
+      "institution": "University of Hawaii at Manoa",
+      "area": "Computer Engineering",
       "studyType": "M.S.",
       "startDate": "2025",
       "endDate": "Present",
-      "courses": [
-      ]
+      "gpa": "3.85",
+      "summary": "Expected Fall 2026",
+      "courses": []
     },
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2025)",
+      "institution": "University of Hawaii at Manoa",
+      "area": "Computer Engineering",
       "studyType": "B.S.",
       "startDate": "2022",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "endDate": "2025",
+      "gpa": "3.85",
+      "summary": "Graduated Spring 2025",
+      "courses": ["Programming for Engineers", "Object Oriented Programming", "Digital Design", "Basic Circuit Analysis", "Microelectronic Circuits", "Signal and System Analysis", "Digital System & Computer Design"]
     },
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa",
       "area": "Sociology",
       "studyType": "B.A.",
       "startDate": "2014",
       "endDate": "2019",
-      "courses": [
-      ]
+      "gpa": "3.05",
+      "summary": "Graduated Fall 2019",
+      "courses": []
+    },
+    {
+      "institution": "Henry J. Kaiser High School",
+      "area": "High School Diploma",
+      "startDate": "2009",
+      "endDate": "2014",
+      "summary": "Graduated Spring 2014",
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "Hankoook Hawaii Inc",
-      "position": "Customer Service Representative Guide",
+      "company": "Hankook Hawaii Inc",
+      "position": "Customer Service Representative",
       "startDate": "2020",
       "endDate": "Present",
       "summary": "Korean Tour Guide",
       "highlights": [
-        "Required fluent speaking in both Korean and English languages.",
-        "Showcased exceptional customer service and problem-solving skills.",
-        "Provided administrative and operational support within the tour guide department, ensuring efficient day-to-day logistics."
+        "Delivered exceptional bilingual service in Korean and English, resolving customer issues effectively.",
+        "Provided operational support within the tour guide department to ensure smooth daily logistics."
       ]
     },
     {
@@ -79,11 +103,10 @@
       "position": "Commission Sales Associate",
       "startDate": "2017",
       "endDate": "2017",
-      "summary": "Multinational Telecommmunications",
+      "summary": "Multinational Telecommunications",
       "highlights": [
-        "Processed transactions through device activations and upgrades, following the proper guidelines of company policies.",
-        "Consistently exceeded targeted sales in service plans, bundles, wireless devices, internet plans in combination with promotional offerings.",
-        "Delivered exceptional customer service through assistance in product information, selection, service plans, and technical support to provide a personalized experience for clientele."
+        "Exceeded sales targets for wireless devices, service plans, and bundled promotions.",
+        "Delivered personalized customer experiences through product selection and technical support."
       ]
     },
     {
@@ -93,33 +116,19 @@
       "endDate": "2016",
       "summary": "Sports & Lifestyle Brand Eyewear Manufacturer",
       "highlights": [
-        "Assisted in proper store presentation and visual merchandising to display products in an engaging retail environment.",
-        "Maintained deep knowledge of Oakley eyewear products, new releases, features, purposes, best sellers, and compatibility with face shapes.",
-        "Provided excellent customer service through product knowledge, selection, and assistance, ensuring a tailored shopping experience surpassing Oakley’s brand standard."
+        "Maintained expert knowledge of Oakley eyewear products and compatibility.",
+        "Ensured high-quality visual merchandising and an engaging shopping environment."
       ]
     },
     {
       "company": "AutoXChange LTD",
-      "position": "Automotive Salesman",
-      "startDate": "2014",
+      "position": "Auto Sales & Lot Technician",
+      "startDate": "2012",
       "endDate": "2015",
       "summary": "Pre-Owned Automotive Dealership",
       "highlights": [
-        "Assisted in selecting pre-owned vehicles of numerous brands through understanding customer needs, preferences, budgets and credit score.",
-        "Provided excellent negotiation skills in pricing and financing options to meet monthly sales targets while excelling in high customer satisfaction and loyalty.",
-        "Consistently understood in-depth knowledge of current and future dealership inventories, providing accurate information and recommendations without assisted resources."
-      ]
-    },
-    {
-      "company": "AutoXChange LTD",
-      "position": "Automotive Lot Technician",
-      "startDate": "2012",
-      "endDate": "2014",
-      "summary": "Pre-Owned Automotive Dealership",
-      "highlights": [
-        "Supported sales and service departments by consistently moving vehicles, deliveries to customer homes, and coordinating logistics.",
-        "Conducted vehicle inspections, cleaned vehicle interiors and exteriors, providing light to advanced detailing workmanship across all inventory.",
-        "Managed daily relocation of vehicle inventory through organization, staging, and maintenance skills within the dealership lot to display an appealing customer-friendly environment."
+        "Met sales targets by negotiating pricing and financing while assisting customers in selecting pre-owned vehicles.",
+        "Ensured optimal inventory presentation through inspections, detailing, and organization."
       ]
     }
   ],
@@ -131,10 +140,9 @@
       "endDate": "2024",
       "summary": "College of Engineering tours for local K-12 students, providing an in-depth overview of the University of Hawaiʻi at Mānoa’s engineering programs and inspiring interest in STEM education and careers.",
       "highlights": [
-        "Provided an overview of the VIP HSFL Ke Ao Aerospace Technologies Lab, highlighting its role in advancing aerospace research and innovation at the University of Hawaiʻi.",
-        "Explained the lab’s mission to develop cost-effective, small satellite systems for scientific research and exploration.",
-        "Demonstrated how the lab integrates cutting-edge technologies, such as CubeSat development and ground station operations, to support space missions.",
-        "Shared insights into the multidisciplinary teamwork required in aerospace projects, emphasizing collaboration among engineering, physics, and computer science students."
+        "Provided an overview of the VIP HSFL Ke Ao Aerospace Technologies Lab.",
+        "Explained the lab’s mission to develop cost-effective, small satellite systems.",
+        "Shared insights into the multidisciplinary teamwork required in aerospace projects."
       ]
     }
   ],
@@ -146,10 +154,16 @@
       "summary": "Eta Kappa Nu (HKN) is the honor society of IEEE, recognizing excellence in electrical and computer engineering, and fostering leadership, service, and professional development among its members."
     },
     {
-      "title": "Deans List",
+      "title": "IEEE Eta Kappa Nu (HKN) President",
+      "date": "2025-2026",
+      "awarder": "University of Hawaii",
+      "summary": "Leading the HKN chapter, promoting academic excellence, professional development, and community engagement among electrical and computer engineering students."
+    },
+    {
+      "title": "Dean’s List",
       "date": "2024",
       "awarder": "University of Hawaii",
-      "summary": "Students who achieve a grade point average (GPA) of 3.5+ for the semester, while being enrolled as a full-time student earning 12+ credits."
+      "summary": "Achieved a GPA of 3.5+ as a full-time student enrolled in at least 12 credits."
     }
   ],
   "references": [
